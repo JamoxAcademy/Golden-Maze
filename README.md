@@ -7,8 +7,8 @@ Golden Maze é um projeto de jogo em Unity projetado para ensinar e aplicar conc
 - Fundamentos de script C# no Unity
 - Gerenciamento de assets e configuração no Unity
 
-## Capturas de Tela
-![Gameplay](https://github.com/usuario/projeto/imagem.png)
+## Link da Playlist de como foi feito
+![Playlist](https://www.youtube.com/playlist?list=PL2c7_RyY4ND7dYgxFIHVY5BA7AZG1j24r)
 
 ## Requisitos
 - Unity 2020.3 ou superior
@@ -18,7 +18,7 @@ Golden Maze é um projeto de jogo em Unity projetado para ensinar e aplicar conc
 ## Como Executar
 1. Clone o repositório:
 2. git clone https://github.com/JamoxAcademy/Golden-Maze.git
-3. 2. Abra o projeto no Unity.
+3. Abra o projeto no Unity.
 3. Pressione Play para iniciar.
 
 ## Roadmap
