@@ -8,7 +8,7 @@ Golden Maze é um projeto de jogo em Unity projetado para ensinar e aplicar conc
 - Gerenciamento de assets e configuração no Unity
 
 ## Link da Playlist de como foi feito
-![Playlist](https://www.youtube.com/playlist?list=PL2c7_RyY4ND7dYgxFIHVY5BA7AZG1j24r)
+https://www.youtube.com/playlist?list=PL2c7_RyY4ND7dYgxFIHVY5BA7AZG1j24r
 
 ## Requisitos
 - Unity 2020.3 ou superior
