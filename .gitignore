@@ -1,0 +1,23 @@
+# Ignore specific folders that Unity regenerates and aren't needed in the repository
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Ignore auto-generated user-specific settings
+UserSettings/
+.vscode/
+
+# Ignore Visual Studio files
+.vs/
+*.csproj
+*.sln
+*.user
+
+# Ignore Unity Collaborate files
+.collabignore
+
+# Ignore packages lock file
+Packages/packages-lock.json
